@@ -2,7 +2,7 @@
 
 
 ## Bem vindo(a) ao meu perfil no GitHub!
-   Esteja a vontade para me ajudar a melhorá - lo, pois estou apenas começando
+   Esteja a vontade para me ajudar a melhorá - lo, pois estou apenas começando.
 
    - 🔭 Atualmente trabalho como Analista de Suporte
    - 🌱 Estudando a pedido da empresa que trabalho UX, UI, Javascript, HTML CSS e futuramente Typescript
