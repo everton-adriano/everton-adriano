@@ -22,7 +22,7 @@
 <img 
     align="left" 
     alt="CSharp" 
-    title="CSharp"
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
@@ -34,7 +34,7 @@
     title="Go" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
    />
    
 <img 
