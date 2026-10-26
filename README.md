@@ -5,7 +5,7 @@
    Esteja a vontade para me ajudar a melhorá - lo, pois estou apenas começando.
 
    - 🔭 Atualmente trabalho como Desenvolvedor Backend Junior
-   - 🌱 Estudando a pedido da empresa que trabalho UX, UI, Javascript, HTML CSS e futuramente Typescript
+   - 🌱 Estudante de Java, mas trabalho desenvolvendo features e corrigindo bugs em C#.
    - 😄 Pronouns: ele/dele
 
 ## Ferramentas e tecnologias em aprendendizado
@@ -16,7 +16,8 @@
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+          
 />
 <img 
     align="left" 
