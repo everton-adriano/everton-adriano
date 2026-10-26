@@ -4,8 +4,8 @@
 ## Bem vindo(a) ao meu perfil no GitHub!
    Esteja a vontade para me ajudar a melhorá - lo, pois estou apenas começando.
 
-   - 🔭 Atualmente trabalho como Desenvolvedor Backend Junior
-   - 🌱 Estudante de Java, mas trabalho desenvolvendo features e corrigindo bugs em C#.
+   - 🔭 Atualmente trabalho como Desenvolvedor Backend Junior.
+   - 🌱 Estudante de Java, mas trabalho desenvolvendo features e corrigindo bugs em C# e Go.
    - 😄 Pronouns: ele/dele
 
 ## Ferramentas e tecnologias em aprendendizado
