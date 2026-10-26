@@ -12,8 +12,8 @@
 
   <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
@@ -21,8 +21,8 @@
 
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="CSharp" 
+    title="CSharp"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
